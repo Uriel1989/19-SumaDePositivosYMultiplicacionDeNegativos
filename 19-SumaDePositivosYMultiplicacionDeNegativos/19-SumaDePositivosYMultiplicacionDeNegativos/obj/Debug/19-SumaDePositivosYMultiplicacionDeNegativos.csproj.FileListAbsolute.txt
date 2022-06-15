@@ -1,0 +1,5 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\19-SumaDePositivosYMultiplicacionDeNegativos\19-SumaDePositivosYMultiplicacionDeNegativos\bin\Debug\19-SumaDePositivosYMultiplicacionDeNegativos.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\19-SumaDePositivosYMultiplicacionDeNegativos\19-SumaDePositivosYMultiplicacionDeNegativos\bin\Debug\19-SumaDePositivosYMultiplicacionDeNegativos.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\19-SumaDePositivosYMultiplicacionDeNegativos\19-SumaDePositivosYMultiplicacionDeNegativos\obj\Debug\19-SumaDePositivosYMultiplicacionDeNegativos.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\19-SumaDePositivosYMultiplicacionDeNegativos\19-SumaDePositivosYMultiplicacionDeNegativos\obj\Debug\19-SumaDePositivosYMultiplicacionDeNegativos.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\19-SumaDePositivosYMultiplicacionDeNegativos\19-SumaDePositivosYMultiplicacionDeNegativos\obj\Debug\19-SumaDePositivosYMultiplicacionDeNegativos.pdb
